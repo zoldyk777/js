@@ -5,7 +5,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: hsl(0, 0%, 100%);
+    /* background-gradient(to bottom right, hsl(281, 20%, 30%), hsl(281, 14%, 15 */
+    background: hsl(278, 57%, 74%);
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
     margin: 0 10px;
     border-radius: 250px;
     /* border: none; */
-    background-color: hsl(200, 100%, 50%);
+    background-color: hsl(201, 32%, 16%);
     cursor: pointer;
     transition: background-color 0.5s ease;
 }
